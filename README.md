@@ -1,5 +1,7 @@
 # Pizza Virus
 
+[<img alt="Status" src="https://raw.githubusercontent.com/Orbinuity/.github/main/status/not_done.png" width="100" height="25">](https://orbinuity.github.io/statusIcons)
+
 A pizza themed virus!
 
 ## License
